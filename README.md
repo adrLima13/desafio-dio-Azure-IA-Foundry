@@ -1,0 +1,1 @@
+# desafio-dio-Azure-IA-Foundry
